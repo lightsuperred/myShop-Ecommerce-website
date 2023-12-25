@@ -5,7 +5,7 @@ MyShop is an Ecommerce web application built with Next.js and MongoDB.
 
 <!-- Screenshots -->
 
-### :camera: Screenshots
+### :camera: Screenshots    
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/87040096/219966144-f29fe874-400c-44bd-8708-0026616c8c09.png)
 
